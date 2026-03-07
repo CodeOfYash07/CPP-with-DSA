@@ -1,0 +1,21 @@
+{
+  "name": "yash-8580-7-3-2026",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "ejs": "^5.0.1",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "express-validator": "^7.3.1",
+    "mongoose": "^9.2.4",
+    "multer": "^2.1.1",
+    "nodemon": "^3.1.14"
+  }
+}
